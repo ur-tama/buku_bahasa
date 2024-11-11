@@ -43,7 +43,12 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('contact') }}">Data Surat</a>
                 </li>
-
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('categories') }}">Categories</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('posts') }}">Posts</a>
+                </li>
 
             </ul>
         </div>
