@@ -15,8 +15,8 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top shadow">
         <div class="container fw-bold">
             <a class="navbar-brand" href="/" aria-label="Homepage">
-                <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/nike-nocta-logo-freelogovectors.net_.png"
-                    alt="Brand Logo">Yezus
+                <img src="https://i.pinimg.com/736x/3a/e3/8f/3ae38f3d9944404e556a6db3ed91932b.jpg"
+                    alt="Brand Logo">Berita     
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -39,7 +39,7 @@
                     </li>
                     @else
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="{{ route('users') }}">Data Users</a>
+                        <a class="nav-link" aria-current="page" href="{{ route('users') }}">User</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ route('profile') }}">Data Warga</a>
